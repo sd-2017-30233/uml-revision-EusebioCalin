@@ -1,0 +1,10 @@
+
+Pozele cu numele "pbX.extensie" sunt problemele rezolvate de la prima tema.
+La problemele cu mai multe subpuncte am numit poza problemaNr.NrSubpunct.extensie.
+Pentru problema trei am 2 poze, deoarece in textul problemei apare acest text : 
+"Each sheet contains drawing objects, including
+text, geometrical objects, and groups." A doua poza reprezinta cazul in care si groups sunt continute in
+drawing object, iar poza unu contine diagrama in care objects contine doar text si geometrical objects.
+Ultima problema nu am apucat sa o rezolv.
+
+Cotet Eusebio Calin, grupa 30233 Calculatoare.
